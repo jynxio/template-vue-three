@@ -1,0 +1,23 @@
+{
+    "name": "template-vue",
+    "description": "template for vue project",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": "jynxio",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "start": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "lil-gui": "^0.17.0",
+        "stats-js": "^1.0.1",
+        "three": "^0.145.0",
+        "vue": "^3.2.41"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^3.1.2",
+        "vite": "^3.1.8"
+    }
+}
